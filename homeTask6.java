@@ -1,4 +1,4 @@
-public class DZ6EquationNew {
+public class homeTask6 {
 
     public static void main(String[] args) 
     {
